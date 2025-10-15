@@ -43,9 +43,11 @@ h1 {
 }
 
 img {
-  width: 90px;
-  height: 110px;
+  width: 200px;
+  height: 200px;
   align-items: center;
+  display: flex;
+  justify-content: center;
 }
 
 nav ul {

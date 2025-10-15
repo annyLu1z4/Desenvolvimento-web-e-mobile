@@ -25,7 +25,7 @@ form.addEventListener("submit", function (event) {
   }
 
   // Exibe mensagem de sucesso
-  alert(`Obrigado, ${nome}! Sua mensagem sobre "${assunto}" foi enviada com sucesso.`);
+  alert(`Obrigado, ${nome} 🌟! Sua mensagem sobre "${assunto}" foi enviada com sucesso.`);
 
   // Limpa o formulário
   form.reset();

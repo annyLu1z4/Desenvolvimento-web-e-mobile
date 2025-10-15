@@ -98,3 +98,10 @@
       color: #000;
       text-decoration-style: solid;
     }
+
+    img{
+      height: 90px;
+      width: 90px;
+      align-items: center;
+      justify-content: right;
+    }
